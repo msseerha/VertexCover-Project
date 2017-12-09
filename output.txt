@@ -1,0 +1,50 @@
+Marking #49: StudentInfo(repo='ece650-project-abhiman', first1='MANSUKH SINGH', last1='SEERHA', watiam1='msseerha', studentid1=20690558, email1='msseerha@uwaterloo.ca', first2='ABHISHEK', last2='THAPLIYAL', watiam2='athapliy', studentid2=20690827, email2='athapliy@uwaterloo.ca')
+Mark = 0
+
+Running test 0:	 +20
+
+
+--------------
+Running test: tests_project/test01.in
+
+# test01.in
+# marks = 40
+
+V 5
+E {<0,1>,<1,4>,<0,2>,<2,1>,<2,3>,<1,3>}
+
+Output:
+----
+CNF-SAT-VC: 1,2
+APPROX-VC-1: 1,2
+APPROX-VC-2: 1,2,3,4
+----
+
+Smallest Vertex Cover:
+----
+1,2
+----
+
+Correctly implemented APPROX-1: +20 
+
+Correctly implemented APPROX-2: +20 
+
+Marks: +40	(60 total)
+
+
+--------------
+
+Finished marking
+Total mark: 60 / 60
+Final mark: 60
+
+           __    ______    ______   ________ 
+         _/  \  /      \  /      \ |        \
+        |   $$ |  $$$$$$\|  $$$$$$\ \$$$$$$$$
+         \$$$$  \$$__| $$ \$$__| $$    /  $$ 
+          | $$   |     $$  |     $$   /  $$  
+          | $$  __\$$$$$\ __\$$$$$\  /  $$   
+         _| $$_|  \__| $$|  \__| $$ /  $$    
+        |   $$ \\$$    $$ \$$    $$|  $$     
+         \$$$$$$ \$$$$$$   \$$$$$$  \$$      
+        
